@@ -1,0 +1,36 @@
+support,itemsets
+0.7864606996819627,frozenset({'Sex_Male'})
+0.6769650159018628,frozenset({'Survived_No'})
+0.32076328941390275,frozenset({'Class_3rd'})
+0.21353930031803725,frozenset({'Sex_Female'})
+0.9504770558836892,frozenset({'Age_Adult'})
+0.14766015447523853,frozenset({'Class_1st'})
+0.12948659700136303,frozenset({'Class_2nd'})
+0.4020899591094957,frozenset({'Class_Crew'})
+0.3230349840981372,frozenset({'Survived_Yes'})
+0.7573830077237619,"frozenset({'Sex_Male', 'Age_Adult'})"
+0.6197183098591549,"frozenset({'Sex_Male', 'Survived_No'})"
+0.6533393911858246,"frozenset({'Age_Adult', 'Survived_No'})"
+0.6038164470695139,"frozenset({'Age_Adult', 'Sex_Male', 'Survived_No'})"
+0.23989095865515675,"frozenset({'Class_3rd', 'Survived_No'})"
+0.23171285779191278,"frozenset({'Sex_Male', 'Class_3rd'})"
+0.2848705134029986,"frozenset({'Class_3rd', 'Age_Adult'})"
+0.2162653339391186,"frozenset({'Age_Adult', 'Class_3rd', 'Survived_No'})"
+0.19173103134938665,"frozenset({'Sex_Male', 'Class_3rd', 'Survived_No'})"
+0.20990458882326216,"frozenset({'Sex_Male', 'Class_3rd', 'Age_Adult'})"
+0.17582916855974556,"frozenset({'Age_Adult', 'Sex_Male', 'Class_3rd', 'Survived_No'})"
+0.1930940481599273,"frozenset({'Sex_Female', 'Age_Adult'})"
+0.1562925942753294,"frozenset({'Sex_Female', 'Survived_Yes'})"
+0.14357110404361653,"frozenset({'Sex_Female', 'Survived_Yes', 'Age_Adult'})"
+0.1449341208541572,"frozenset({'Class_1st', 'Age_Adult'})"
+0.1185824625170377,"frozenset({'Class_2nd', 'Age_Adult'})"
+0.4020899591094957,"frozenset({'Class_Crew', 'Age_Adult'})"
+0.39164016356201725,"frozenset({'Class_Crew', 'Sex_Male'})"
+0.3057701044979555,"frozenset({'Class_Crew', 'Survived_No'})"
+0.39164016356201725,"frozenset({'Class_Crew', 'Sex_Male', 'Age_Adult'})"
+0.3057701044979555,"frozenset({'Class_Crew', 'Age_Adult', 'Survived_No'})"
+0.3044070876874148,"frozenset({'Class_Crew', 'Sex_Male', 'Survived_No'})"
+0.3044070876874148,"frozenset({'Class_Crew', 'Age_Adult', 'Sex_Male', 'Survived_No'})"
+0.1667423898228078,"frozenset({'Survived_Yes', 'Sex_Male'})"
+0.2971376646978646,"frozenset({'Survived_Yes', 'Age_Adult'})"
+0.15356656065424806,"frozenset({'Survived_Yes', 'Sex_Male', 'Age_Adult'})"
